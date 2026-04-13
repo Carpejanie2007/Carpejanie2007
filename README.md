@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 👋 Oi, eu sou estudante de informática e gosto de aprender tecnologia na prática<br>💻 Estou sempre criando projetos para desenvolver minhas habilidades em programação<br>🤝 Tenho interesse em colaborar com outras pessoas e participar de novos desafios<br>🌱 Atualmente estou focado em evoluir meus conhecimentos e aprender ferramentas novas
 
 
