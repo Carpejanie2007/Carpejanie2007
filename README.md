@@ -16,23 +16,19 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Carpejanie2007&icon=0&color=0)](https://visitcount.itsvg.in)
+---
 
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-
-class SoftwareEngineer:
-
     def __init__(self):
-        self.name = "Zhenye Na"
-        self.role = "Software Engineer"
-        self.language_spoken = ["zh_CN", "en_US"]
+        self.name = "Pedro Carpejani"
+        self.role = "Aprendiz com foco em BackEnd"
+        self.language_spoken = ["pt_BR", "en_US"]
 
     def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+        print("Obrigado por aparecer aqui! Espero que ache os meus projetos interessantes!!")
 
 
-me = SoftwareEngineer()
-me.say_hi()
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
