@@ -1,7 +1,7 @@
 ### Olá! Seja Bem-Vindo!
 
 👋 Eu sou estudante de informática e gosto de aprender tecnologia na prática<br>
-💼 Sou Jovem Aprendiz na Robert Bosch<br>
+💼 Sou Jovem Aprendiz na [**Bosch**](https://github.com/boschglobal)<br>
 🏫 Faço Sistemas da Informação pelo UNASP-HT<br>
 💻 Estou sempre criando projetos para desenvolver minhas habilidades em programação<br>🤝 Tenho interesse em colaborar com outras pessoas e participar de novos desafios<br>🌱 Atualmente estou focado em evoluir meus conhecimentos e aprender ferramentas novas
 
