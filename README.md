@@ -18,16 +18,19 @@
 [![](https://visitcount.itsvg.in/api?id=Carpejanie2007&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
 
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
 
-    def __init__(self):
-        self.name = "Pedro Carpejani"
-        self.role = "Aprendiz com foco em BackEnd"
-        self.language_spoken = ["pt_BR", "en_US"]
+    class AprendizEmDs:
+    
+        def __init__(self):
+            self.name = "Pedro Carpejani"
+            self.role = "Aprendiz com foco em BackEnd"
+            self.language_spoken = ["pt_BR", "en_US"]
 
-    def say_hi(self):
-        print("Obrigado por aparecer aqui! Espero que ache os meus projetos interessantes!!")
+        def say_hi(self):
+            print("Obrigado por aparecer aqui! Espero que ache os meus projetos interessantes!!")
+
+    eu = AprendizEmDs()
+    eu.say_hi()
 
 
 
